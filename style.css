@@ -69,10 +69,11 @@ section.top{
     width: 100vw;
     height: 5.5vw;
     justify-content: space-between;
-    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 #loupe{
+    padding-left: 20%;
     color :#3f4d98a8;
 }
 a{
